@@ -1,0 +1,23 @@
+
+https://www.journaldev.com/21748/spring-session-management-spring-session-jdbc
+
+1)mvn clean install
+
+2)mvn spring-boot:run
+
+3)open a browser and hit  http://localhost:8080/
+
+  enter few messages and check the spring_session and spring_session_attributes tables in MySQL  (we don't need to create tables)
+  
+4)open a new browser and hit  http://localhost:8080/
+
+  enter few messages and check the spring_session and spring_session_attributes tables in MySQL
+  
+5)open a new browser and hit  http://localhost:8080/
+
+  enter few messages and check the spring_session and spring_session_attributes tables in MySQL
+  
+6)every user has its own data in the database 
+  
+
+
